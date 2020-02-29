@@ -1,0 +1,132 @@
+istory
+    1  shutdown.exe /r /t 00
+    2  cd /c/Users/ramarajana/Documents/
+    3  mkdir TEST
+    4  cd..
+    5  cd TEST/
+    6  git init
+    9  git config --global user.name ramarajana
+   10  git config --global user.email ramarajana@techaffinity.com
+   11  $ git remote add
+   12  ls -al ~/.ssh
+   13  ssh-keygen -t rsa -b 4096 -C "ramarajana@techaffinity.com"
+   14  eval $(ssh-agent -s)
+   15  ssh-add ~/.ssh/id_rsa
+   16  history
+   17  ls
+   18  ls
+   19  cd ..
+   20  ls
+   21  ls
+   22  cd TEST/
+   23  ls
+   24  cd Test1-master/
+   25  touch newfile
+   26  nano newfile
+   27  cat newfile
+   28  git status
+   29  git add -A
+   30  ls
+   31  cd..
+   32  cd ..
+   33  ls
+   34  git status
+   35  ls
+   36  history
+   37  cd ..
+   38  ls
+   39  mkdir NewProject
+   40  ls
+   41  cd NewProject/
+   42  git init
+   43  git remote add https://github.com/shankar3377/Labwork.git
+   44  git remote add origin https://github.com/shankar3377/Labwork.git
+   45  git clone https://github.com/shankar3377/Labwork.git
+   46  cd ..
+   47  cd ..
+   48  pwd
+   49  cat .ssh/id_rsa
+   50  cat .ssh/id_rsa.pub
+   51  cd ..
+   52  cd ramarajana/Documents/NewProject/
+   53  git clone https://github.com/shankar3377/Labwork.git
+   54  ls
+   55  cd Labwork/
+   56  ls
+   57  git pull -u origin master
+   58  ls
+   59  cd ..
+   60  rm Labwork/
+   61  rm -R Labwork/
+   62  ls
+   63  git clone https://github.com/shankar3377/Labwork.git
+   64  ssh -T git@github.com
+   65  ls
+   66  git clone https://github.com/shankar3377/Labwork.git
+   67  cd..
+   68  cd ..
+   69  cd ..
+   70  mkdir Documents1
+   71  cd Documents1/
+   72  git init
+   73  git config --global user.name <ramarajana>
+   74  git config --global user.name ramarajana
+   75  git config --global user.email ramarajana@techaffinity.com
+   76  git remote add origin git@github.com:ramarajana/Test1.git
+   77  git clone git@github.com:ramarajana/Test1.git
+   78  git status
+   79  pwd
+   80  ls
+   81  cd Test1/
+   82  ls
+   83  nano text
+   84  ls
+   85  cd ..
+   86  git add -A
+   87  git commit -a -m "new text file created."
+   88  git status
+   89  git push -u origin master
+   90  git rm --cached Test1
+   91  git add -A
+   92  cd ..
+   93  cd ..
+   94  ls
+   95  cd ramarajana/
+   96  ls
+   97  cd Documents1/
+   98  ls
+   99  cd Test1/
+  100  ls
+  101  nano text
+  102  git add -A
+  103  git commit -a -m "new text file created."
+  104  git push -u origin master
+  105  git remote remove origin
+  106  git remote remove origin
+  107  git remote remove origin git@github.com:ramarajana/Test1.git
+  108  git remote add origin git@github.com:ramarajana/Test1.git
+  109  git push -u origin master
+  110  git remote add origin https://github.com/ramarajana/Test1.git
+  111  git remote add new https://github.com/ramarajana/Test1.git
+  112  git push -u new master
+  113  \history
+  114  ssh-keygen
+  115  ?cat ~/.ssh/id_rsa.pub
+  116  cat ~/.ssh/id_rsa.pub
+  117  cd ..
+  118  cd ..
+  119  cd Documents
+  120  cd NewProject/
+  121  ls
+  122  git remote list
+  123  git remote --list
+  124  git remote add origin git@github.com:shankar3377/labwork.git
+  125  ssh -T git@github.com
+  126  git clone git@github.com:shankar3377/labwork.git
+  127  ls
+  128  cd l
+  129  cd labwork/
+  130  ls
+  131  history
+  132  cd /
+  133  history
